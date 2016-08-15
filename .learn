@@ -1,8 +1,8 @@
 tags:
   - readme
   - looping
-  - break
-  - gets
+  - while
+  - until
 languages:
   - ruby
 resources: 0
